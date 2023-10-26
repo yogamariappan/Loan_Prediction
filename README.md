@@ -1,4 +1,4 @@
-#Loan-prediction-using-Machine-Learning-and-Python
+# Loan-prediction-using-Machine-Learning-and-Python
 
 ## Aim
 
@@ -73,24 +73,41 @@ df['total_income']=df['ApplicantIncome'] + df['CoapplicantIncome']
 
 ## Importance Feature
 
-	Importance	Feature
+	Importance	Feature 
+ 
 7	0.837136	Credit_History
+
 8	0.127906	Loan_Status
+
 10	0.034958	Property_Area_Rural
+
 0	0.000000	Gender
+
 1	0.000000	Married
+
 2	0.000000	Dependents
+
 3	0.000000	Education
+
 4	0.000000	Self_Employed
+
 5	0.000000	LoanAmount
+
 6	0.000000	Loan_Amount_Term
+
 9	0.000000	total_income
+
 11	0.000000	Property_Area_Semiurban
 
 
 # Model Accuarcy
+
 **Random Forest** : accuracy_score = 0.7680412371134021
+
 **Logistic Regression**: accuracy_score = 0.7783505154639175
+
 **Decision Trees**: accuracy_score = 0.788659793814433
+
 **K Nearest Neighbor Classifier**: accuracy_score = 0.5979381443298969
+
 **Extreme Gradient Boosting Classifier**: accuracy_score = 0.7783505154639175
