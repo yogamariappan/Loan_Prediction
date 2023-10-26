@@ -21,7 +21,7 @@ Loan_ID - Unique Loan ID
 
 **Self_Employed** - Self employed (Y/N)
 
-**ApplicantIncome **- Applicant income
+**ApplicantIncome**- Applicant income
 
 **CoapplicantIncome** - Coapplicant income
 
